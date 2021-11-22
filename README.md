@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trifonJordanov
+- 👋 Hi, I’m @TrifonJordanov
 - 👀 I’m interested in ... FlyFishing
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
