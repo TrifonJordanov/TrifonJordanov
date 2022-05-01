@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrifonJordanov
-- 👀 I’m interested in ... FlyFishing
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Automation QA and FlyFishing.
+- 🌱 I’m currently learning C#, Test Techniques and Good Practice!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... at my mail.
 
